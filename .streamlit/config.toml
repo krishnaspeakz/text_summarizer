@@ -1,6 +1,11 @@
 [theme]
-primaryColor="#11111"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#FOF2F6"
-textColor="#111111"
-font="monospace"
+primaryColor="#FFFFFF" /* Changing primary color to white */
+
+backgroundColor="#111111" /* Changing background color to black */
+
+secondaryBackgroundColor="#2C2C2C" /* Adjusting secondary background color to a dark shade */
+
+textColor="#FFFFFF" /* Changing text color to white */
+
+font="monospace" /* Keeping the font as monospace */
+
